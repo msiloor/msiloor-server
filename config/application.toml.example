@@ -1,0 +1,5 @@
+[spring.application]
+name = "msiloor-server"
+
+[web.server]
+port = 8080
